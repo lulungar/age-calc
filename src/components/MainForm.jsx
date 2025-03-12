@@ -159,7 +159,7 @@ const MainForm = () => {
       <div className="divider">
         <span className="line"></span>
         <button className="divider-btn" onClick={setValue}>
-          <img src="/age-calc/images/icon-arrow.svg" alt="" />
+          <img src="./age-calc/images/icon-arrow.svg" alt="" />
         </button>
       </div>
 
